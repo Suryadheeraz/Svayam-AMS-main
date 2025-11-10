@@ -15,7 +15,6 @@ import {
   TableContainer,
   TableHead,
   TableRow,
-  Paper,
   IconButton,
   InputAdornment
 } from '@mui/material';
